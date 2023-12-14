@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Around Moscow</name>
+	<gx:CascadingStyle kml:id="__managed_style_0F279626CB2D7384C1D2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C117274C22D7384C1D1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_069F4398522D7384C1D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C117274C22D7384C1D1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F279626CB2D7384C1D2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0368AC7C032D7384C1AC">
+		<name>Circle</name>
+		<LookAt>
+			<longitude>37.51878385659744</longitude>
+			<latitude>55.75212660267017</latitude>
+			<altitude>161.4035422093708</altitude>
+			<heading>-11.54231782739304</heading>
+			<tilt>5.568880795944909</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>120575.6124973297</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069F4398522D7384C1D1</styleUrl>
+		<LineString>
+			<coordinates>
+				37.27232597635674,55.68200630163636,0 37.40363514927571,55.56365065611593,0 37.58973886275599,55.52146270241533,0 37.8743897453727,55.54210634901008,0 38.06763576556762,55.65179962897513,0 38.06448218208968,55.78627151975059,0 37.92392424127262,55.92224492963775,0 37.71913814459506,55.97982272536704,0 37.48257977006828,55.96238813381072,0 37.31877484857953,55.89406889133023,0 37.25860034664192,55.76696449742943,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

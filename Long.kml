@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Без названия</name>
+	<gx:CascadingStyle kml:id="__managed_style_29D5115A222D79B16FB4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_110CCC837C2D79B16FB4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C543B90F52D79B16FB4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_110CCC837C2D79B16FB4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29D5115A222D79B16FB4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="002F1683B52D79B16FAE">
+		<name>Путь без названия</name>
+		<LookAt>
+			<longitude>36.71789489061307</longitude>
+			<latitude>56.78553870785692</latitude>
+			<altitude>1269.656812900318</altitude>
+			<heading>-0.5404022737845711</heading>
+			<tilt>7.13495170886694</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3938031.326524615</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C543B90F52D79B16FB4</styleUrl>
+		<LineString>
+			<coordinates>
+				37.30837854555507,55.620144361448,0 38.30137034636422,55.61412093536919,0 38.57709934007216,55.13663243560816,0 27.69864181433076,53.92149130087205,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
